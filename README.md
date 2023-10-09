@@ -1,4 +1,4 @@
-# devops
+# DevOps
 # ZenHub Exploration
 
 What is ZenHub?
